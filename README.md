@@ -32,13 +32,18 @@ Table 1
 
  
 Table 2
-
-
-
+![image](https://github.com/anhuacheng/Assignment-1-Submission/assets/156543160/4c855476-b52e-4548-922e-67ef4e761763)
 
 
 Table 3
- 
+ ![image](https://github.com/anhuacheng/Assignment-1-Submission/assets/156543160/faca81c7-27e0-42e3-b142-8bf682828d33)
+
+
 Table 4
- 
+ ![image](https://github.com/anhuacheng/Assignment-1-Submission/assets/156543160/8935e919-0094-4178-8aa7-db9e07fdf6e9)
+
+
+![image](https://github.com/anhuacheng/Assignment-1-Submission/assets/156543160/99d9833e-b139-4523-9a6b-83faa389da00)
+
+![image](https://github.com/anhuacheng/Assignment-1-Submission/assets/156543160/cec2890a-41dd-4b92-ae27-832820ebf958)
 
